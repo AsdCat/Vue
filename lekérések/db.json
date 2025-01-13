@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali",
+      "lastname": "Alantas"
+    },
+    {
+      "id": "2",
+      "name": "Béci",
+      "lastname": "Beretvás"
+    },
+    {
+      "id": "3",
+      "name": "Cili",
+      "lastname": "Cicomás"
+    },
+    {
+      "id": "333a",
+      "name": "Gusztáv",
+      "Lastname": "Macska"
+    },
+    {
+      "id": "8096",
+      "name": "bat",
+      "lastname": "man"
+    },
+    {
+      "id": "4ef6",
+      "name": "asd",
+      "lastname": "sad"
+    }
+  ]
+}
